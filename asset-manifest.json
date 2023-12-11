@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mjpiano/static/css/main.9734d203.css",
-    "main.js": "/mjpiano/static/js/main.c8c5c388.js",
+    "main.css": "/mjpiano/static/css/main.a039987f.css",
+    "main.js": "/mjpiano/static/js/main.318973f4.js",
     "static/media/bach_fantasia_in_c_minor.mp3": "/mjpiano/static/media/bach_fantasia_in_c_minor.f2b407de9031a5ee6f33.mp3",
     "static/media/beethoven_sonata_op_10-3_II.mp3": "/mjpiano/static/media/beethoven_sonata_op_10-3_II.13e2a51050b2fc2fc078.mp3",
     "static/media/brahms-intermezzo-in-a-major.mp3": "/mjpiano/static/media/brahms-intermezzo-in-a-major.47fc35d5a4d6cf136480.mp3",
@@ -11,28 +11,29 @@
     "static/media/beethoven_sonata_op_10-3_IV.mp3": "/mjpiano/static/media/beethoven_sonata_op_10-3_IV.3549c84e4bd2cffd3ff6.mp3",
     "static/media/Nocturne+in+D-flat+major.mp3": "/mjpiano/static/media/Nocturne+in+D-flat+major.a8f84c8fe729b303af18.mp3",
     "static/media/beethoven_sonata_op_10-3_III.mp3": "/mjpiano/static/media/beethoven_sonata_op_10-3_III.6bd1a3b72307325d0382.mp3",
-    "static/media/matt-1.jpg": "/mjpiano/static/media/matt-1.4c2bb2d85046ec3a94bf.jpg",
-    "static/media/student-1.jpg": "/mjpiano/static/media/student-1.d84e795c7bae050d2a94.jpg",
+    "static/media/student-1.jpg": "/mjpiano/static/media/student-1.9cf2d85c7b1e690a3afe.jpg",
     "static/media/student-2.jpg": "/mjpiano/static/media/student-2.111df293c2796fe1cdf1.jpg",
+    "static/media/student-16.jpeg": "/mjpiano/static/media/student-16.9c8980512e6d3924eab4.jpeg",
+    "static/media/matt-1.jpg": "/mjpiano/static/media/matt-1.4c2bb2d85046ec3a94bf.jpg",
     "static/media/matt-2.jpg": "/mjpiano/static/media/matt-2.29f0e0f2ac93c44ee9cc.jpg",
     "static/media/student-19.jpeg": "/mjpiano/static/media/student-19.71e2ea1bd9a6db32837f.jpeg",
     "static/media/matt-5.png": "/mjpiano/static/media/matt-5.918a550ed7b920a13e63.png",
-    "static/media/student-3.jpg": "/mjpiano/static/media/student-3.52e8b71ab00080cf0d1d.jpg",
+    "static/media/student-3.jpg": "/mjpiano/static/media/student-3.f0ad164b00373c14729e.jpg",
+    "static/media/student-4.jpg": "/mjpiano/static/media/student-4.ae90261baea4bef3be19.jpg",
+    "static/media/student-5.jpg": "/mjpiano/static/media/student-5.f38e94917f6b4353af27.jpg",
     "static/media/map.jpeg": "/mjpiano/static/media/map.4f165306fa171b9d99b3.jpeg",
     "static/media/student-8.jpg": "/mjpiano/static/media/student-8.c63c63541d3ef5f54ce3.jpg",
-    "static/media/student-5.jpg": "/mjpiano/static/media/student-5.50a9643f3250bb21c6ee.jpg",
     "static/media/piano.jpg": "/mjpiano/static/media/piano.59fe7777c3645a977f4a.jpg",
-    "static/media/student-4.jpg": "/mjpiano/static/media/student-4.79359c24a9ac9a3f9074.jpg",
     "static/media/student-18.jpeg": "/mjpiano/static/media/student-18.b679c284eac3edfa92fb.jpeg",
     "static/media/music-building.webp": "/mjpiano/static/media/music-building.d58d1e6674341f6c998f.webp",
     "static/media/note1.jpg": "/mjpiano/static/media/note1.8d3a749632bcd10aa178.jpg",
     "static/media/quickbooks.jpeg": "/mjpiano/static/media/quickbooks.50dc85839c0da2862852.jpeg",
     "index.html": "/mjpiano/index.html",
-    "main.9734d203.css.map": "/mjpiano/static/css/main.9734d203.css.map",
-    "main.c8c5c388.js.map": "/mjpiano/static/js/main.c8c5c388.js.map"
+    "main.a039987f.css.map": "/mjpiano/static/css/main.a039987f.css.map",
+    "main.318973f4.js.map": "/mjpiano/static/js/main.318973f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.9734d203.css",
-    "static/js/main.c8c5c388.js"
+    "static/css/main.a039987f.css",
+    "static/js/main.318973f4.js"
   ]
 }
