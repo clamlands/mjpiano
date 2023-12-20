@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mjpiano/static/css/main.f0d00252.css",
-    "main.js": "/mjpiano/static/js/main.77bb84d0.js",
+    "main.css": "/mjpiano/static/css/main.1bab7146.css",
+    "main.js": "/mjpiano/static/js/main.1c288790.js",
     "static/media/bach_fantasia_in_c_minor.mp3": "/mjpiano/static/media/bach_fantasia_in_c_minor.f2b407de9031a5ee6f33.mp3",
     "static/media/beethoven_sonata_op_10-3_II.mp3": "/mjpiano/static/media/beethoven_sonata_op_10-3_II.13e2a51050b2fc2fc078.mp3",
     "static/media/brahms-intermezzo-in-a-major.mp3": "/mjpiano/static/media/brahms-intermezzo-in-a-major.47fc35d5a4d6cf136480.mp3",
@@ -29,11 +29,11 @@
     "static/media/note1.jpg": "/mjpiano/static/media/note1.8d3a749632bcd10aa178.jpg",
     "static/media/quickbooks.jpeg": "/mjpiano/static/media/quickbooks.50dc85839c0da2862852.jpeg",
     "index.html": "/mjpiano/index.html",
-    "main.f0d00252.css.map": "/mjpiano/static/css/main.f0d00252.css.map",
-    "main.77bb84d0.js.map": "/mjpiano/static/js/main.77bb84d0.js.map"
+    "main.1bab7146.css.map": "/mjpiano/static/css/main.1bab7146.css.map",
+    "main.1c288790.js.map": "/mjpiano/static/js/main.1c288790.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0d00252.css",
-    "static/js/main.77bb84d0.js"
+    "static/css/main.1bab7146.css",
+    "static/js/main.1c288790.js"
   ]
 }
